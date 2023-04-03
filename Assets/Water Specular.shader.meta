@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 634f6c46e4884878aeef838bf6261848
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AlbedoTex1: {instanceID: 0}
+  - _AlbedoTex2: {fileID: 2800000, guid: 39f33eb72667432418d01ccef518ddef, type: 3}
+  - _NormalMap1: {instanceID: 0}
+  - _NormalMap2: {instanceID: 0}
+  - _ParallaxMap: {instanceID: 0}
+  - _ReflectionCube: {instanceID: 0}
+  - _MirrorReflectionTex: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
